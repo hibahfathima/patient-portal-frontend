@@ -1,0 +1,50 @@
+.back{
+    background-image: url("https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17818.jpg?t=st=1745605881~exp=1745609481~hmac=bf0b0e0888883f303eac1c82f469a79c2cc0a115fb577217b1b7ce2a4428dca6&w=1380");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.loginImage{
+    background-image: url("https://img.freepik.com/free-photo/health-still-life-with-copy-space_23-2148854031.jpg?ga=GA1.1.200856929.1744974082&semt=ais_hybrid&w=740");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.loginPara{
+    font-size: 10px;
+    font-weight: bold;
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.profileBackground{
+    background-image: url('https://img.freepik.com/free-photo/medical-equipment-desk-with-copy-space_23-2148519754.jpg?ga=GA1.1.200856929.1744974082&semt=ais_hybrid&w=740');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.fade-in {
+    animation: fadeIn 1s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px);}
+    to { opacity: 1; transform: translateY(0);}
+  }
+
+  .navbarStyling:hover{
+    text-decoration: underline;
+    color:whitesmoke;
+    font-size: 20px;
+  }
+
+  .remove{
+    text-decoration: none;
+    color:whitesmoke;
+  }
+
+  
+

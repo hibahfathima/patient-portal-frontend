@@ -1,0 +1,21 @@
+#quote{
+    color:white;
+    font-size: 10px;
+   font-style: italic;
+}
+
+.navbarStyling:hover{
+    text-decoration: underline;
+    color:whitesmoke;
+    font-size: 20px;
+  }
+
+  .remove{
+    text-decoration: none;
+    color:whitesmoke;
+  }
+
+
+  .fStyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
