@@ -9,7 +9,7 @@ import { useState } from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 
 import Card from 'react-bootstrap/Card';
-import Header from '../components/header';
+import Header from '../components/Header';
 
 function Home() {
   const [index, setIndex] = useState(0);
